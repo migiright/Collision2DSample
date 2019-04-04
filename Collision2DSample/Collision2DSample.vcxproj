@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{98E700D0-A7A1-42F3-9626-4CAB17A9F1A3}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>DxLibTest</RootNamespace>
+    <RootNamespace>Collision2DSample</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
